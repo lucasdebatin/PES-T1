@@ -1,0 +1,10 @@
+Diario do projeto
+Lucas Debatin Bastos
+
+05/04 - Estudei lua e comecei a planejar o projeto
+
+06/04 - Pesquisei as informações necessárias para implementação do programa e decidi quais seriam suas funções
+
+09/04 - Terminei de codificar e testar o programa
+
+10/04 - Terminei de escrever a documentação e atualizei no github
